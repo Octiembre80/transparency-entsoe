@@ -1,6 +1,6 @@
 # Transparency-entsoe
 
-Warning: Unfinished code
+Warning: Unfinished code, sample code for kiwi internship
 
 Simple tool to download and repair some of the data from transparency.entsoe.eu API platform. 
 
